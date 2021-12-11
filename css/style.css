@@ -1,5 +1,5 @@
 header{
-  background: linear-gradient(to right, rgba(29, 38, 113, 0.5),rgba(0, 0, 0, 0.9)),url('/img/portada.jpg');
+  background: linear-gradient(to right, rgba(29, 38, 113, 0.5),rgba(0, 0, 0, 0.9)),url('img/portada.jpg');
   height: 100vh;
 }
 
